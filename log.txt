@@ -1,0 +1,325 @@
+2017-11-27 08:59:16 type=buy stock=BNP size=1
+2017-11-27 08:59:24 type=buy stock=ECP size=53
+2017-11-27 08:59:31 type=buy stock=LOCAL size=75
+2017-11-27 09:22:11 type=sell stock=ECP size=53
+2017-11-27 09:30:12 type=sell stock=LOCAL size=75
+2017-11-27 13:10:12 type=sell stock=BNP size=1
+2017-11-28 08:59:14 cash=286.13
+2017-11-28 08:59:15 type=buy stock=GLE size=6
+2017-11-28 17:25:11 type=sell stock=GLE size=6
+2017-11-29 08:59:14 cash=285.73
+2017-11-30 08:59:14 cash=285.73
+2017-12-01 08:59:13 cash=285.73
+2017-12-01 08:59:14 type=buy stock=CA size=3
+2017-12-01 08:59:21 type=buy stock=FP size=1
+2017-12-01 08:59:28 type=buy stock=FR size=1
+2017-12-01 09:04:12 type=sell stock=FR size=1
+2017-12-01 09:07:11 type=sell stock=CA size=3
+2017-12-01 10:02:11 type=sell stock=FP size=1
+2017-12-02 08:59:15 cash=282.59
+2017-12-03 08:59:14 cash=282.59
+2017-12-04 08:59:14 cash=282.59
+2017-12-04 08:59:15 type=buy stock=AIR size=1
+2017-12-04 08:59:21 type=buy stock=CGG size=22
+2017-12-04 08:59:29 type=buy stock=FTI size=3
+2017-12-04 09:02:12 type=sell stock=CGG size=22
+2017-12-04 09:03:11 type=sell stock=CGG size=22
+2017-12-04 09:04:11 type=sell stock=CGG size=22
+2017-12-04 09:05:11 type=sell stock=CGG size=22
+2017-12-04 09:06:11 type=sell stock=CGG size=22
+2017-12-04 09:13:11 type=sell stock=FTI size=3
+2017-12-04 16:44:16 type=sell stock=AIR size=1
+2017-12-04 16:44:23 type=sell stock=AIR size=1
+2017-12-04 16:44:27 type=sell stock=AIR size=1
+2017-12-04 16:44:31 type=sell stock=AIR size=1
+2017-12-04 16:44:36 type=sell stock=AIR size=1
+2017-12-04 16:44:40 type=sell stock=AIR size=1
+2017-12-04 16:44:44 type=sell stock=AIR size=1
+2017-12-04 16:44:48 type=sell stock=AIR size=1
+2017-12-04 16:44:52 type=sell stock=AIR size=1
+2017-12-04 16:44:56 type=sell stock=AIR size=1
+2017-12-04 16:45:01 type=sell stock=AIR size=1
+2017-12-05 08:59:16 cash=280.49
+2017-12-06 08:59:13 cash=280.49
+2017-12-06 08:59:14 type=buy stock=DBG size=14
+2017-12-06 08:59:23 type=buy stock=EUCAR size=12
+2017-12-06 09:00:18 type=sell stock=DBG size=14
+2017-12-06 09:05:16 type=sell stock=EUCAR size=12
+2017-12-07 08:59:14 cash=277.1
+2017-12-07 08:59:15 type=buy stock=ADOC size=8
+2017-12-07 08:59:22 type=buy stock=KN size=19
+2017-12-07 09:00:06 type=sell stock=ADOC size=8
+2017-12-07 09:00:15 type=sell stock=KN size=19
+2017-12-07 09:04:58 type=sell stock=ADOC size=8
+2017-12-07 09:05:01 type=sell stock=ADOC size=8
+2017-12-07 09:05:05 type=sell stock=ADOC size=8
+2017-12-07 09:05:10 type=sell stock=ADOC size=8
+2017-12-07 09:05:15 type=sell stock=ADOC size=8
+2017-12-07 09:05:20 type=sell stock=ADOC size=8
+2017-12-07 09:05:24 type=sell stock=ADOC size=8
+2017-12-07 21:15:57 type=sell stock=TEST size= algo=degiro
+2017-12-07 21:16:17 type=sell stock=TEST size=1 algo=degiro
+2017-12-07 21:24:17 type=sell stock=TEST size=1 algo=degiro
+2017-12-07 21:24:35 type=sell stock=TEST size=1 algo=degiro
+2017-12-07 21:25:22 type=sell stock=TEST size=1 algo=degiro
+2017-12-07 21:26:22 type=sell stock=TEST size=1 algo=degiro
+2017-12-07 21:26:26 type=sell stock=TEST size=1 algo=degiro
+2017-12-07 21:27:04 type=sell stock=TEST size=1 algo=degiro max=10 LastPrice=1.111
+2017-12-08 08:59:13 cash=277.54
+2017-12-08 08:59:14 type=buy stock=AF size=6 algo=normal max=NULL LastPrice=12.415
+2017-12-08 08:59:21 type=buy stock=FP size=1 algo=normal max=NULL LastPrice=47.35
+2017-12-08 09:04:02 type=sell stock=FP size=1 algo=degiro max=47.555 LastPrice=
+2017-12-08 09:12:13 type=sell stock=AF size=6 algo=degiro max=12.71 LastPrice=null
+2017-12-09 08:59:13 cash=276.64
+2017-12-10 08:59:15 cash=276.64
+2017-12-11 08:59:13 cash=276.64
+2017-12-11 08:59:14 type=buy stock=ACA size=8 algo=normal max=NULL LastPrice=14.67
+2017-12-11 08:59:22 type=buy stock=ENGI size=8 algo=normal max=NULL LastPrice=14.815
+2017-12-11 12:39:31 type=sell stock=ENGI size=8 algo=degiro max=14.86 LastPrice=14.71
+2017-12-11 17:24:23 type=sell stock=ACA size=8 algo=degiro max=14.77 LastPrice=14.62
+2017-12-12 08:59:13 cash=273.56
+2017-12-13 08:59:13 cash=273.56
+2017-12-13 08:59:14 type=buy stock=POM size=3 algo=normal max=NULL LastPrice=35.545
+2017-12-13 09:50:57 type=sell stock=POM size=3 algo=degiro max=36.415 LastPrice=36.03
+2017-12-14 08:59:13 cash=274.02
+2017-12-15 08:59:13 cash=274.02
+2017-12-15 08:59:13 type=buy stock=MMB size=4 algo=normal max=NULL LastPrice=27.555
+2017-12-15 08:59:21 type=buy stock=GLE size=2 algo=normal max=NULL LastPrice=44.025
+2017-12-15 10:34:50 type=sell stock=GLE size=2 algo=degiro max=43.995 LastPrice=43.555
+2017-12-15 17:25:10 type=sell stock=MMB size=4 algo=normal max=27.51 LastPrice=27.365
+2017-12-16 08:59:14 cash=271.4
+2017-12-17 08:59:14 cash=271.4
+2017-12-18 08:59:13 cash=271.4
+2017-12-19 08:59:13 cash=271.4
+2017-12-19 08:59:13 type=buy stock=COX size=12 algo=normal max=NULL LastPrice=9.99
+2017-12-19 08:59:20 type=buy stock=PVL size=5 algo=normal max=NULL LastPrice=23.7
+2017-12-19 09:00:22 type=sell stock=PVL size=5 algo=degiro max=23.85 LastPrice=23.1
+2017-12-19 09:29:05 type=sell stock=COX size=12 algo=degiro max=10.48 LastPrice=10.355
+2017-12-20 08:59:13 cash=271.82
+2017-12-20 08:59:14 type=buy stock=FGA size=7 algo=normal max=NULL LastPrice=16.15
+2017-12-20 08:59:20 type=buy stock=FTI size=5 algo=normal max=NULL LastPrice=24.055
+2017-12-20 09:04:11 type=sell stock=FGA size=7 algo=normal max=16.73 LastPrice=16.5
+2017-12-20 17:25:11 type=sell stock=FTI size=5 algo=normal max=24.835 LastPrice=24.835
+2017-12-21 08:59:12 cash=272.13
+2017-12-22 08:59:12 cash=272.13
+2017-12-23 08:59:14 cash=272.13
+2017-12-24 08:59:14 cash=272.13
+2017-12-25 08:59:14 cash=272.13
+2017-12-26 08:59:13 cash=272.13
+2017-12-27 08:59:13 cash=272.13
+2017-12-28 08:59:13 cash=272.13
+2017-12-28 08:59:13 type=buy stock=ZC size=10 algo=normal max=NULL LastPrice=24.94
+2017-12-28 17:25:10 type=sell stock=ZC size=10 algo=normal max=24.99 LastPrice=24.97
+2017-12-29 08:59:13 cash=271.83
+2017-12-29 08:59:13 type=buy stock=AIR size=3 algo=normal max=NULL LastPrice=83.9
+2017-12-29 13:44:58 type=sell stock=AIR size=3 algo=degiro max=84.19 LastPrice=83.33
+2017-12-30 08:59:14 cash=269.36
+2017-12-31 08:59:14 cash=269.36
+2018-01-01 08:59:13 cash=269.36
+2018-01-02 08:59:13 cash=269.36
+2018-01-03 08:59:14 cash=269.36
+2018-01-04 08:59:13 cash=269.36
+2018-01-04 08:59:13 type=buy stock=ML size=2 algo=normal max=NULL LastPrice=121.4
+2018-01-04 09:57:27 type=sell stock=ML size=2 algo=degiro max=123.75 LastPrice=122.45
+2018-01-05 08:59:13 cash=268.96
+2018-01-05 08:59:13 type=buy stock=EO size=3 algo=normal max=NULL LastPrice=66.38
+2018-01-06 08:59:14 cash=268.3
+2018-01-07 08:59:14 cash=268.3
+2018-01-08 08:59:13 cash=268.3
+2018-01-08 08:59:13 type=buy stock=SAN size=3 algo=normal max=NULL LastPrice=74.36
+2018-01-08 13:50:55 type=sell stock=SAN size=3 algo=degiro max=75.23 LastPrice=74.46
+2018-01-09 08:59:13 cash=267.77
+2018-01-09 08:59:14 type=buy stock=ALO size=3 algo=normal max=NULL LastPrice=35.95
+2018-01-09 08:59:21 type=buy stock=FR size=1 algo=normal max=NULL LastPrice=64.98
+2018-01-09 17:25:11 type=sell stock=ALO size=3 algo=normal max=36.18 LastPrice=36.04
+2018-01-10 08:59:13 cash=299.7
+2018-01-11 08:59:12 cash=299.7
+2018-01-12 08:59:14 cash=299.7
+2018-01-12 08:59:14 type=buy stock=ELE size=1 algo=normal max=NULL LastPrice=121.8
+2018-01-12 09:00:14 type=buy stock=SRP size=20 algo=normal max=NULL LastPrice=6.83
+2018-01-13 08:59:14 cash=299.7
+2018-01-14 08:59:13 cash=299.7
+2018-01-15 08:59:13 cash=299.7
+2018-01-16 08:59:13 cash=299.7
+2018-01-17 08:59:14 cash=299.7
+2018-01-17 08:59:14 type=buy stock=ALO size=3 algo=normal max=NULL LastPrice=35.81
+2018-01-17 08:59:22 type=buy stock=VAC size=3 algo=normal max=NULL LastPrice=43.2
+2018-01-17 09:06:32 type=sell stock=ALO size=3 algo=degiro max=35.92 LastPrice=35.54
+2018-01-18 08:59:14 cash=297.95
+2018-01-18 08:59:14 type=buy stock=SOI size=3 algo=normal max=NULL LastPrice=69.4
+2018-01-19 08:59:13 cash=297.95
+2018-01-20 08:59:13 cash=297.95
+2018-01-21 08:59:20 cash=297.95
+2018-01-22 08:59:13 cash=297.95
+2018-01-22 08:59:13 type=buy stock=AIR size=2 algo=normal max=NULL LastPrice=92.79
+2018-01-23 08:59:13 cash=297.34
+2018-01-23 08:59:14 type=buy stock=BIG size=5 algo=normal max=NULL LastPrice=16.08
+2018-01-23 08:59:21 type=buy stock=BIM size=1 algo=normal max=NULL LastPrice=77.5
+2018-01-23 08:59:26 type=buy stock=CA size=4 algo=normal max=NULL LastPrice=18.465
+2018-01-23 18:17:53 cash=0
+2018-01-23 18:19:19 cash=0
+2018-01-23 18:20:50 cash=0
+2018-01-23 18:21:09 cash=0
+2018-01-23 18:21:14 cash=0
+2018-01-23 18:21:42 cash=0
+2018-01-23 18:22:49 cash=0
+2018-01-24 08:59:13 cash=497.34
+2018-01-24 08:59:13 type=buy stock=SK size=2 algo=normal max=NULL LastPrice=170
+2018-01-24 09:05:13 cash=497.34
+2018-01-25 08:59:14 cash=497.34
+2018-01-25 08:59:14 type=buy stock=ELIOR size=12 algo=normal max=NULL LastPrice=19.01
+2018-01-25 08:59:20 type=buy stock=GET size=20 algo=normal max=NULL LastPrice=11.16
+2018-01-25 09:05:14 cash=497.34
+2018-01-26 08:59:14 cash=497.34
+2018-01-26 08:59:14 type=buy stock=CRI size=8 algo=normal max=NULL LastPrice=28.14
+2018-01-26 08:59:20 CRI : fail
+2018-01-26 09:05:13 cash=497.34
+2018-01-26 09:05:13 MC : momentum=0.36
+2018-01-26 09:05:13 type=buy stock=MC size=1 algo=normal max=NULL LastPrice=247.7
+2018-01-26 09:05:18 MC : fail
+2018-01-27 08:59:13 cash=497.34
+2018-01-27 09:05:13 cash=497.34
+2018-01-28 08:59:13 cash=497.34
+2018-01-28 09:05:14 cash=497.34
+2018-01-29 08:59:13 cash=497.34
+2018-01-29 09:05:13 cash=497.34
+2018-01-30 08:59:13 cash=497.34
+2018-01-30 08:59:13 type=buy stock=MRN size=5 algo=normal max=NULL LastPrice=40.85
+2018-01-30 08:59:19 MRN : fail
+2018-01-30 09:05:14 cash=497.34
+2018-01-30 09:05:14 ELIS : momentum=-0.87
+2018-01-31 08:59:15 cash=497.34
+2018-01-31 08:59:15 type=buy stock=DEC size=4 algo=normal max=NULL LastPrice=35.4
+2018-01-31 08:59:22 DEC : success
+2018-01-31 08:59:22 type=buy stock=KOF size=3 algo=normal max=NULL LastPrice=41.24
+2018-01-31 08:59:27 KOF : success
+2018-01-31 09:04:03 type=sell stock=DEC size=4 algo=degiro max=36.2 LastPrice=35.34
+2018-01-31 09:05:15 cash=369.19
+2018-01-31 09:05:15 FP : momentum=0.16
+2018-01-31 09:05:16 type=buy stock=FP size=7 algo=normal max=NULL LastPrice=46.735
+2018-01-31 09:05:21 FP : success
+2018-01-31 13:02:01 type=sell stock=KOF size=3 algo=degiro max=41.86 LastPrice=41.42
+2018-01-31 17:25:13 type=sell stock=FP size=7 algo=normal max=46.745 LastPrice=46.575
+2018-02-01 08:59:14 cash=491.39
+2018-02-01 08:59:14 type=buy stock=CEN size=2 algo=normal max=NULL LastPrice=76.9
+2018-02-01 08:59:20 CEN : success
+2018-02-01 09:05:13 cash=336.93
+2018-02-01 09:05:13 DSY : momentum=2.25
+2018-02-01 09:05:13 type=buy stock=DSY size=3 algo=normal max=NULL LastPrice=96.14
+2018-02-01 09:05:20 DSY : success
+2018-02-01 09:22:50 type=sell stock=DSY size=3 algo=degiro max=101.5 LastPrice=100.4
+2018-02-01 11:04:13 type=sell stock=CEN size=2 algo=degiro max=77.4 LastPrice=76.3
+2018-02-02 08:59:14 cash=499.75
+2018-02-03 08:59:14 cash=499.75
+2018-02-04 08:59:15 cash=499.75
+2018-02-04 09:05:14 cash=499.75
+2018-02-05 08:59:15 cash=499.75
+2018-02-05 09:05:14 cash=499.75
+2018-02-05 09:05:15 FP : momentum=0.17
+2018-02-05 09:05:15 type=buy stock=FP size=10 algo=normal max=NULL LastPrice=45.77
+2018-02-05 09:05:20 FP : fail
+2018-02-06 09:05:14 cash=499.33
+2018-02-07 09:14:12 type=sell stock=FNAC size=5 algo=degiro max=93.85 LastPrice=92.8
+2018-02-08 08:59:15 cash=499.95
+2018-02-08 09:05:15 cash=499.95
+2018-02-08 09:05:15 CLA : momentum=-2.93
+2018-02-08 09:05:15 LR : momentum=-1.81
+2018-02-08 09:05:15 PUB : momentum=-0.31
+2018-02-08 09:05:15 SCR : momentum=-0.28
+2018-02-08 09:05:15 FP : momentum=1.3
+2018-02-08 09:05:15 type=buy stock=FP size=1 algo=normal max=NULL LastPrice=45.59
+2018-02-08 09:05:22 FP : success
+2018-02-08 11:57:18 type=sell stock=FP size=1 algo=degiro max=45.875 LastPrice=45.415
+2018-02-10 08:59:14 cash=499.71
+2018-02-10 09:05:13 cash=499.71
+2018-02-11 08:59:14 cash=499.71
+2018-02-11 09:05:13 cash=499.71
+2018-02-12 08:59:14 cash=499.71
+2018-02-12 08:59:14 type=buy stock=ICAD size=2 algo=normal max=NULL LastPrice=80.15
+2018-02-12 08:59:20 ICAD : success
+2018-02-12 09:01:18 type=sell stock=ICAD size=2 algo=degiro max=82.0 LastPrice=81.05
+2018-02-12 09:05:13 cash=497.79
+2018-02-12 09:05:13 AIR : momentum=-1.42
+2018-02-13 08:59:14 cash=498.28
+2018-02-13 08:59:14 type=buy stock=COFA size=18 algo=normal max=NULL LastPrice=8.45
+2018-02-13 08:59:20 COFA : success
+2018-02-13 08:59:20 type=buy stock=LOCAL size=154 algo=normal max=NULL LastPrice=0.9975
+2018-02-13 08:59:26 LOCAL : success
+2018-02-13 09:04:59 type=sell stock=COFA size=18 algo=degiro max=9.05 LastPrice=8.9
+2018-02-13 09:05:13 cash=497.86
+2018-02-13 09:05:13 KER : momentum=-1.01
+2018-02-13 10:52:12 type=sell stock=LOCAL size=154 algo=normal max=1.005 LastPrice=0
+2018-02-14 08:59:14 cash=498.34
+2018-02-14 09:05:13 cash=498.34
+2018-02-14 09:05:13 ORP : momentum=0.35
+2018-02-14 09:05:13 type=buy stock=ORP size=4 algo=normal max=NULL LastPrice=97.34
+2018-02-14 09:05:19 ORP : fail
+2018-02-15 08:59:14 cash=498.34
+2018-02-15 08:59:14 type=buy stock=POM size=2 algo=normal max=NULL LastPrice=38.71
+2018-02-15 08:59:20 POM : success
+2018-02-15 09:05:14 cash=420.08
+2018-02-15 09:05:14 AIR : momentum=-0.45
+2018-02-15 09:05:14 CAP : momentum=0.05
+2018-02-15 09:05:14 SU : momentum=0.14
+2018-02-15 09:05:14 type=buy stock=CAP size=1 algo=normal max=NULL LastPrice=103.85
+2018-02-15 09:05:21 CAP : success
+2018-02-15 09:05:21 type=buy stock=SU size=2 algo=normal max=NULL LastPrice=71.06
+2018-02-15 09:05:27 SU : success
+2018-02-15 10:55:42 type=sell stock=SU size=2 algo=degiro max=73.7 LastPrice=72.92
+2018-02-15 11:35:35 type=sell stock=POM size=2 algo=degiro max=40.53 LastPrice=40.12
+2018-02-15 14:29:54 type=sell stock=CAP size=1 algo=degiro max=105.1 LastPrice=103.95
+2018-02-16 08:59:13 cash=504
+2018-02-16 08:59:13 type=buy stock=PHA size=4 algo=normal max=NULL LastPrice=46.9
+2018-02-16 08:59:21 PHA : success
+2018-02-16 09:05:13 cash=307.12
+2018-02-16 09:05:14 EO : momentum=2.77
+2018-02-16 09:05:14 type=buy stock=EO size=4 algo=normal max=NULL LastPrice=69.7
+2018-02-16 09:05:19 EO : success
+2018-02-16 09:05:19 type=sell stock=EO size=4 algo=normal max=69.7 LastPrice=69.7
+2018-02-16 09:20:01 type=sell stock=PHA size=4 algo=degiro max=52.0 LastPrice=51.4
+2018-02-17 08:59:14 cash=512.02
+2018-02-17 09:05:14 cash=512.02
+2018-02-18 08:59:14 cash=512.02
+2018-02-18 09:05:13 cash=512.02
+2018-02-19 08:59:14 cash=512.02
+2018-02-19 08:59:14 type=buy stock=SOP size=3 algo=normal max=NULL LastPrice=153.8
+2018-02-19 08:59:20 SOP : success
+2018-02-19 09:03:05 type=sell stock=SOP size=3 algo=degiro max=154.7 LastPrice=153.0
+2018-02-19 09:05:13 cash=504.26
+2018-02-20 08:59:13 cash=505.65
+2018-02-20 09:05:13 cash=505.65
+2018-02-20 09:05:14 EDEN : momentum=3.81
+2018-02-20 09:05:14 type=buy stock=EDEN size=16 algo=normal max=NULL LastPrice=27.77
+2018-02-20 09:05:20 EDEN : success
+2018-02-20 09:06:49 type=sell stock=EDEN size=16 algo=degiro max=28.18 LastPrice=27.79
+2018-02-21 08:59:13 cash=502.41
+2018-02-21 08:59:13 type=buy stock=ATE size=1 algo=normal max=NULL LastPrice=79.15
+2018-02-21 08:59:19 ATE : success
+2018-02-21 09:05:14 cash=422.99
+2018-02-21 09:05:14 AC : momentum=0.13
+2018-02-21 09:05:14 ATO : momentum=0.34
+2018-02-21 09:05:14 type=buy stock=AC size=4 algo=normal max=NULL LastPrice=44.96
+2018-02-21 09:05:22 AC : success
+2018-02-21 09:05:22 type=buy stock=ATO size=1 algo=normal max=NULL LastPrice=119.25
+2018-02-21 09:05:28 ATO : success
+2018-02-21 09:07:39 type=sell stock=ATE size=1 algo=degiro max=79.6 LastPrice=78.5
+2018-02-21 09:08:58 type=sell stock=ATO size=1 algo=degiro max=119.9 LastPrice=118.6
+2018-02-21 11:37:36 type=sell stock=AC size=4 algo=degiro max=47.43 LastPrice=46.91
+2018-02-22 08:59:14 cash=507.78
+2018-02-22 08:59:14 type=buy stock=FNAC size=1 algo=normal max=NULL LastPrice=96.15
+2018-02-22 08:59:20 FNAC : success
+2018-02-22 09:05:15 cash=412.96
+2018-02-22 09:05:15 AKE : momentum=0.23
+2018-02-22 09:05:15 VIE : momentum=-0.7
+2018-02-22 09:05:15 type=buy stock=AKE size=3 algo=normal max=NULL LastPrice=106.65
+2018-02-22 09:05:21 AKE : success
+2018-02-22 09:05:21 type=sell stock=AKE size=3 algo=normal max=108 LastPrice=106.65
+2018-02-22 09:05:22 type=sell stock=AKE size=3 algo=degiro max=108.75 LastPrice=106.05
+2018-02-23 08:59:13 cash=506.09
+2018-02-23 09:05:14 cash=506.09
+2018-02-23 09:05:16 type=buy stock=ADP size=1 algo=normal max=NULL LastPrice=170.6
+2018-02-23 09:05:23 ADP : success
+2018-02-23 09:05:23 type=buy stock=SGO size=5 algo=normal max=NULL LastPrice=45.365
+2018-02-23 09:05:24 type=sell stock=ADP size=1 algo=degiro max=174.8 LastPrice=170.6
+2018-02-23 09:05:29 SGO : success
+2018-02-23 09:21:33 type=sell stock=SGO size=5 algo=degiro max=45.825 LastPrice=45.365

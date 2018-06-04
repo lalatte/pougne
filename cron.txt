@@ -1,0 +1,13 @@
+MAILTO=raf47@hotmail.fr
+* * * * * /usr/bin/curl -s http://pougne.org/index.php?Enregistrer=1
+* * * * * /usr/bin/curl -s http://pougne.org/index2.php?Enregistrer=1
+* * * * * sleep 10; /usr/bin/curl -s http://pougne.org/sendorders.php
+* * * * * /usr/bin/curl -s http://pougne.org/selldegiro.php
+* * * * * /usr/bin/curl -s http://pougne.org/datadegiro.php
+
+
+* * * * * /usr/bin/curl -s http://pougne.org/index.php?Enregistrer=1
+* * * * * /usr/bin/curl -s http://pougne.org/index2.php?Enregistrer=1
+* * * * * php5.5 -f selldegiro.php
+* * * * * php5.5 -f datadegiro.php
+* * * * * sleep 10; php5.5 -f sendorders.php

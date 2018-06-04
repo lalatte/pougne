@@ -1,0 +1,111 @@
+body
+{
+	width: 5500px;
+}
+
+input[type=text]
+{
+width: 50px;
+}
+
+#header
+{
+	margin-bottom: 100px;
+}
+
+#results {
+	border-collapse:collapse;
+	display: inline-table;	
+}
+
+#daytable {
+	width: 120px;
+	border-collapse:collapse;
+	display: inline-table;	
+	position: relative;
+	top: -9px;
+}
+
+
+#daytable #title{
+	padding:3px;
+	border:1px solid black; 
+	height: 45px;
+}
+
+
+#daytable td{
+	padding:3px;
+	border:1px solid black; 
+	max-width: 80px;
+}
+
+#results td{
+	padding:3px;
+	border:1px solid black; 
+	max-width: 200px;
+	min-width: 80px;
+}
+
+#momentum{
+	position: absolute;
+	left: 200px;
+}
+
+
+#categories{
+	position: absolute;
+	left: 500px;
+}
+
+#frais{
+	position: absolute;
+	left: 750px;
+}
+
+#X{
+	width: 200 px;
+	position: absolute;
+	left: 950px;
+}
+
+#logic{
+	width: 300px;
+	position: absolute;
+	left: 1150px;
+}
+
+#variation{
+	position: absolute;
+	left: 1550px;
+}
+
+
+.red{
+	background-color:Salmon;
+}
+.lightred{
+	background-color:Pink;
+}
+
+.lightgreen{
+	background-color:LightGreen;
+}
+
+.lightblue{
+	background-color:LightBlue;
+}
+
+.green{
+	background-color:Lime;
+}
+
+.buttons{
+	display: inline-block;
+}
+
+.buttons2{
+	display: inline-block;
+	position: absolute;
+	left: 300px;
+}

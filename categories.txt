@@ -1,0 +1,14 @@
+<?php
+include('dbconnect.php');
+
+$request1=$database->query("SELECT * FROM news");
+
+while ($data1=$request1->fetch())
+{
+	$request2=$database->query("SELECT * FROM codes WHERE stock='".$data1['stock']."'");
+	$data2=$request2->fetch();
+	?><p><?php
+	echo $data2['cat1'];
+	$request3=$database->query("UPDATE news SET cat1='".$data2['cat1']."'");
+}
+	

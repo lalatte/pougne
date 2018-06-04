@@ -1,0 +1,37 @@
+<?php
+/*fonction de détermination cours en fonction du jour et de l'heure*/
+	if(!function_exists('getprice'))
+	{
+		
+		function getprice(int $day, int $time, array $lines, array $dayindex)
+		{
+			if(sizeof($dayindex)<12)
+			{
+				return("Price not found");
+			}
+			
+			$found=0;
+			
+			/*détermination de l'heure du premier cours*/
+			$timeopen=substr($lines[$dayindex[$day]][0],1);
+			$minuteopen=date('i',$timeopen);
+
+			/*recherche prix*/
+			$k=0;
+			while($k<5 && $found==0)
+			{
+				for($j=$dayindex[$day];$j<=$dayindex[$day+1];$j++)
+				{
+					if($lines[$j][0]==($time-$minuteopen-$k))
+					{
+						$found=1;
+						return $lines[$j][1];
+					}
+				}	
+					
+				$k++; //si prix non trouvé, nouvelle recherche 1 minute plus tot, limite 5 minutes
+			}
+			return("Price not found");
+		}	
+	}
+	

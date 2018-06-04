@@ -1,0 +1,21 @@
+<?php
+
+include('simple_html_dom.php');
+include('parsearticle.php');
+
+$stock="AIR";
+
+$curl = curl_init('https://www.google.com/finance/getprices?q='.$stock.'&x=EPA&i=60&p=1d&f=d,c,h,l,o,v');
+
+curl_setopt($curl, CURLOPT_RETURNTRANSFER, 1);
+curl_setopt($curl,CURLOPT_SSL_VERIFYPEER, false);
+
+$curl_scraped_page = curl_exec($curl);
+
+curl_close($curl);
+
+
+$html = new simple_html_dom();
+$html->load($curl_scraped_page);
+
+echo $html;
